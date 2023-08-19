@@ -1,0 +1,23 @@
+.thirddiv {
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.image1 {
+  width: 100%;
+  height: 80%;
+}
+
+.h1 {
+  font-size: 2rem;
+}
+
+.h2 {
+  padding-top: 10rem;
+}
+
+.head1 {
+  width: 80%;
+}

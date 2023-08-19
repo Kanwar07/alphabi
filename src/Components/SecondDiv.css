@@ -1,0 +1,21 @@
+.main1 {
+  display: flex;
+  align-items: center;
+  background-color: black;
+  color: white;
+  padding: 8rem 24rem;
+}
+
+.heading1 {
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  padding-bottom: 2rem;
+}
+
+.heading {
+  font-size: 8rem;
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 1rem;
+}

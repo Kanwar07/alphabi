@@ -1,0 +1,25 @@
+.heading {
+  font-size: 8rem;
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 1rem;
+}
+
+.main {
+  padding: 2rem 4rem;
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.heading1 {
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  padding-bottom: 2rem;
+}
+
+.icon {
+  background-color: rgb(161, 0, 255);
+}
